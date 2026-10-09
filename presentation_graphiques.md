@@ -12,8 +12,8 @@ Ce graphique utilise une seule courbe claire avec une ligne de référence (moye
 
 Les deux courbes (température et CO2) sont bien distinguées par leur couleur et suivent chacune leur propre axe, ce qui permet de comparer leurs évolutions sans les confondre. La zone encadrée sur la période récente attire efficacement l'attention sur la hausse rapide et inhabituelle par rapport aux cycles précédents.
 
-## Graphique 3 : Évolution annuelle du nombre d'accidents par département
+## Graphique 3 : Naissances et décès en France métropolitaine
 
-![Évolution annuelle du nombre d'accidents](graphique3.png)
+![Évolution annuelle du nombre d'accidents](graphique3(1).png)
 
-Chaque département a sa propre couleur avec une légende claire, ce qui permet de suivre facilement plusieurs séries en même temps sans les mélanger. L'échelle de l'axe des années est régulière et bien repérable, ce qui facilite la comparaison d'une période à l'autre.
+Les deux courbes (naissances et décès) sont bien différenciées par leur couleur et une légende simple, ce qui permet de les suivre facilement sur plus d'un siècle. L'axe des années est régulier et bien lisible, ce qui permet de repérer facilement des événements marquants comme la baisse des naissances pendant les guerres.
